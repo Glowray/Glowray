@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Glowray
-- 👀 I’m interested in ...Data Science, DevOps
-- 🌱 I’m currently learning ...DevOps, Data science
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Ogdata
+- 🌱 I’m currently learning Data science
 - 📫 How to reach me ...
 glomojola@gmail.com
 
